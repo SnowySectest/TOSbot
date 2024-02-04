@@ -1,2 +1,0 @@
-# TOSbot
-Discord Bot TOS

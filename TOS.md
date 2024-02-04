@@ -1,0 +1,3 @@
+# TOS For SnowyBot
+---
+---
